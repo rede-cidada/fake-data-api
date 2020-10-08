@@ -1,84 +1,98 @@
 [
   {
     "id": 1,
+    "image" : "https://medicalbox.com.br/blog/wp-content/uploads/2019/04/aprenda-como-montar-uma-clinica-medica-impecavel.jpeg",
     "nome": "Bela Clinica ",
     "descricao": "Acompanhamento psicológico infantil, realizado através de jogos, brinquedos e material expressivo.",
     "cidade": "Recife"
   },
   {
     "id": 2,
+    "image" : "https://www.globalmedclinica.com.br/wp-content/uploads/2017/03/IMG_7122-e1500490441828-780x520.jpg",
     "nome": "+Mente",
-    "descricao": "Atendimento psicológico para adolescentes e adultos mediante sessões com freqüência mínima de uma vez por semana, visando trabalhar os conflitos e a problemática efetivo emocional de cliente.",
+    "descricao": "Atendimento psicológico para adolescentes e adultos mediante sessões com freqüência mínima de uma vez por semana.",
     "cidade": "Camaragibe"
   },
   {
     "id": 3,
+    "image" : "https://www.globalmedclinica.com.br/wp-content/uploads/2016/03/estrutura-img-03-780x520.jpeg",
     "nome": "Du mente",
-    "descricao": "Processo de avaliação psicológica afim de esclarecer a problemática especifica do cliente, e realizar o devido encaminhamento. É concluído com aproximadamente com quatro ou seis sessões, utilizando entrevistas e aplicações de testes psicológicos. O mesmo é realizado no estágio de Psicologia Clínica, mas também, quando necessário, por alunos do curso de Psicologia que estão cursando esta disciplina.",
+    "descricao": "Processo de avaliação psicológica afim de esclarecer a problemática especifica do cliente, e realizar o devido encaminhamento.",
     "cidade": "Caruaru"
   },
   {
     "id": 4,
-    "nome": "Psicologo logo",
+    "image" : "https://clinicadacidade.com.br/wp-content/uploads/2019/09/44961c59-0002-1200x800.jpg",
+    "nome": "Clínica da Cidade",
     "descricao": "Atendimentos psicológicos com a finalidade de desenvolver atividade de apoio à família.",
     "cidade": "Jaboatão"
   },
   {
     "id": 5,
+    "image" : "https://soluzionegestaodeclinicas.com.br/wp-content/uploads/2019/11/decora%C3%A7%C3%A3o-de-cl%C3%ADnica-medica-ilustra%C3%A7%C3%A3o-e1574084732420.jpg", 
     "nome": "Dr. Jacinto Melo",
-    "descricao": "É um serviço voltado para atuação em hospitais ou instituições de saúde conveniadas ao SEP, juntamente com o pessoal de saúde envolvendo o indivíduo e as áreas sociais e da saúde pública buscando sempre o bem-estar individual e social.",
+    "descricao": "É um serviço voltado para atuação em hospitais ou instituições de saúde conveniadas ao SEP.",
     "cidade": "Jaboatão dos Guararapes"
   },
   {
     "id": 6,
+    "image" : "https://cdn.vitaclinica.com.br/wp-content/uploads/2018/06/tn_2018_CLINICAVITA_4014.jpg",
     "nome": "Clínica vital life",
-    "descricao": "É uma atividade multiprofissional e interdisciplinar que coloca a psicologia a serviço dos demais profissionais desenvolvendo a prática das assessorias, consultorias e interconsultas psicológicas. ",
+    "descricao": "É uma atividade multiprofissional e interdisciplinar que coloca a psicologia a serviço dos demais profissionais. ",
     "cidade": "Recife"
   },
   {
     "id": 7,
+    "image" : "https://www.clinicaipp.com.br/wp-content/uploads/2018/04/clinica-psicologia-psiquiatria-integrada-9.jpg",
     "nome": "Melhor Cura",
-    "descricao": "Nesta atividade o psicólogo poderá acionar e articular todo seu instrumental teórico-técnico e prático experimental para orientar e intervir na situação-problema criando condições através de grupos de reflexão para que os profissionais de outras áreas compreendam os fenômenos psicológicos.",
+    "descricao": "Nesta atividade o psicólogo poderá acionar e articular todo seu instrumental teórico-técnico e prático experimental.",
     "cidade": "Jaboatão"
   },
   {
     "id": 8,
+    "image" : "https://www.clinicappi.com.br/wp-content/uploads/2018/03/clinica-psicologia-ppi-45-1030x685.jpg",
     "nome": "Viver Mais",
     "descricao": " É uma atividade voltada para a formação e preparação de recursos humanos e sua participação na vida e nas decisões das organizações.",
     "cidade": "São Lourenço da Mata"
   },
   {
     "id": 9,
+    "image" : "https://clinicaaccogliere.com.br/wp-content/uploads/2020/03/banner-3-mobile.jpg",
     "nome": "Mente Care central",
     "descricao": "É uma atividade voltada para desenvolver serviços na área Escolar e Educacional.",
     "cidade": "Recife"
   },
   {
     "id": 10,
+    "image" : "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSxEy9ugWT0DQKJmHzc6n4M0Uqgku0z2yJX9w&usqp=CAU",
     "nome": "Cuide Bem",
-    "descricao": "espaço criado para atender o outro em sua singularidade, ouvi-lo, orientá-lo, apontar caminhos a fim de proporcionar alívio emocional.",
+    "descricao": "espaço criado para atender o outro em sua singularidade, ouvi-lo, apontar caminhos a fim de proporcionar alívio emocional.",
     "cidade": "Jaboatão"
   },
   {
     "id": 11,
+    "image" : "https://www.clinicappi.com.br/wp-content/uploads/2018/03/clinica-psicologia-ppi-42-1030x685.jpg",
     "nome": "SalubreMente",
     "descricao": "O psicólogo é esse profissional mediador que propicia o encontro do sujeito consigo mesmo a partir da fala.",
     "cidade": "Jaboatão"
   },
   {
     "id": 12,
+    "image" : "https://www.lysispsicologia.com.br/wp-content/uploads/2019/05/Lysis-Consult%C3%B3rio-de-Psicologia-em-SP.jpg", 
     "nome": "Linda vida",
     "descricao": "Dentre as áreas da ciência psicológica o fazer mais conhecido é a psicologia clínica. ",
     "cidade": "Recife"
   },
   {
     "id": 13,
+    "image" : "https://images.homify.com/c_fill,f_auto,h_700,q_auto/v1556203854/p/photo/image/3028640/e_3.jpg",
     "nome": "Clínica Virtude",
-    "descricao": " Muitos ainda associam a imagem do psicólogo somente ao modelo tradicional de terapeuta clínico, aquele que escuta e faz pontuações. Portanto, alguns conceitos são pertinentes à prática clinica, bem como à escuta, a subjetividade, o sofrimento psíquico, aceitação incondicional, o comportamento.",
+    "descricao": " Muitos ainda associam a imagem do psicólogo somente ao modelo tradicional de terapeuta clínico.",
     "cidade": "Garanhuns "
   },
   {
     "id": 14,
+    "image" : "https://www.saudedafamilia.org/_wp/wp-content/uploads/photo-gallery/imported_from_media_libray/Cl%C3%ADnica-de-Psicologia-51.jpg?bwg=1557403442",
     "nome": "Dr. Nelson Portela",
     "descricao": "A Psicologia Clínica é então uma das área que os psicólogos atuam e que sofre mudanças ao longo do tempo.",
     "cidade": "Camaragibe"
