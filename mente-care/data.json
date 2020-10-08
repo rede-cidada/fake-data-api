@@ -1,13 +1,13 @@
 [
   {
     "id": 1,
-    "nome": "Bela Clinica D",
+    "nome": "Bela Clinica ",
     "descricao": "Acompanhamento psicológico infantil, realizado através de jogos, brinquedos e material expressivo.",
     "endereco": "52041-030, Rua André Rebouças, Encruzilhada, Recife, PE"
   },
   {
     "id": 2,
-    "nome": "Psico Health",
+    "nome": "+Mente",
     "descricao": "Atendimento psicológico para adolescentes e adultos mediante sessões com freqüência mínima de uma vez por semana, visando trabalhar os conflitos e a problemática efetivo emocional de cliente.",
     "endereco": "54774-520, Rua Tercila Ferreira Bento Sobrinho, Céu Azul, Camaragibe, PE"
   },
